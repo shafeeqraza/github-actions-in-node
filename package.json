@@ -4,12 +4,13 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "mocha test.js --timeout 10000"
+    "test": "npx mocha test.js --timeout 10000"
   },
   "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^5.1.2",
     "mocha": "^11.0.1"
   }
 }
