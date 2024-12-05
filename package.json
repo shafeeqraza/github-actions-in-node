@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test.js --timeout 10000"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
